@@ -1,6 +1,6 @@
 # Mini CMS
 
-ระบบจัดการบทความ Full Stack สร้างด้วย Next.js + FastAPI + SQLite
+Full Stack สร้างด้วย Next.js + FastAPI + SQLite
 
 ---
 
