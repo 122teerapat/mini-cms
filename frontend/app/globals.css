@@ -1,0 +1,9 @@
+/* globals.css — ใส่แค่ Tailwind และ reset เล็กน้อย */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+body {
+  background-color: #f9fafb;  /* สีพื้นหลังทั้งเว็บ (gray-50) */
+}
+ 
